@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">In Case Of Emergency</string>
+    <string name="my_name">Janet Aponte</string>
+    <string name="blood_type">Blood type: O+</string>
+    <string name="med_conditions">Medical Conditions: No medical conditions</string>
+    <string name="allergies">Allergies: No known allergies</string>
+    <string name="medications">Medications: Taking Vitamin D and Iron daily</string>
+    <string name="Contacts">Contacts:</string>
+    <string name="contact_name">Yuriana Aponte (Sister)</string>
+    <string name="phone">Phone: (773)526-9751 </string>
+
+</resources>
